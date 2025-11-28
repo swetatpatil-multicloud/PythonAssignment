@@ -1,5 +1,3 @@
-<!-- # PythonAssignment -->
-
 def check_password_strength(password):
     # Check minimum length
     if len(password) < 8:
