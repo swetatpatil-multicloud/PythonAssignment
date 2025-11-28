@@ -37,3 +37,6 @@ else:
     print("- Uppercase and lowercase letters")
     print("- At least one digit")
     print("- At least one special character (!, @, #, $, %)")
+
+
+    ![CPU Monitor Output](images/cpu_monitor_output.png)
